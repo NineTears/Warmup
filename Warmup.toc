@@ -1,8 +1,8 @@
 ## Interface: 11200
 ## Title: Warmup
 ## Notes: Tracks how long between loadup events
-## Title-zhCN:|CFF0055FF[插件整合]|R|CFF7FFF7F插件负载监视|R
-## Notes-zhCN:|CFF0055FFWarmup|R|N显示所有插件的内存占用，滚轮上下查看。|N|CFFFF0000必须加载|R
+## Title-zhCN: |cff33ffcc调试工具|cffffffff插件负载监视|R
+## Notes-zhCN:|CFF0055FFWarmup|R|N显示所有插件的内存占用，滚轮上下查看。
 ## X-Repple: 插件整合
 ## Author: Tekkub Stoutwrithe, 凡人
 ## Version: 1.0.0
